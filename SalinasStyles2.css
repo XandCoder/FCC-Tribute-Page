@@ -1,0 +1,104 @@
+/***************************
+*
+* Author: Sandra Suarez AKA
+*		  XandCoder
+* Date: 03.06.21
+* FCC Tribute Page
+*
+***************************/
+
+body{
+	background-color: #1D5B84;
+	color: black;
+	display: grid;
+	justify-content: center;
+}
+
+#main{
+	background-color:	#BFA9A8;
+	max-width: 960px;
+	min-width: 300px;
+	border-radius: 20px;
+	margin-top: 20px;
+	padding: 20px;
+	font-family: Arial;
+}
+
+#title{
+	background-color: mistyrose;
+	color: #C9358E;
+	border-radius: 20px;
+	text-align:	center;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+h1{
+	font-family: 'Libre Baskerville', serif;
+	font-size: 400%;
+	margin-bottom: 1px;
+}
+
+h5{
+	margin-top: 1px;
+}
+
+#img-div{
+	margin-bottom: 20px;
+}
+
+#image{
+	max-width: 100%;
+	display: block;
+	height: auto;
+	border-radius: 10px;
+	margin-bottom: 20px;
+}
+
+#img_caption{
+	text-align: center;
+}
+
+#tribute-info{
+	background-color: mistyrose;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+
+#sectionTitles{
+	font-weight: bold;
+}
+
+li{
+	padding-bottom: 10px;
+}
+
+a:link{
+	color: #1D5B84;
+	text-decoration: none;
+}
+
+a:visited{
+	color: #1D5B84;
+	text-decoration: underline;
+}
+
+a:hover{
+	color: #C9358E;
+	text-decoration: none;
+}
+
+a:active{
+	color: #C9358E;
+	text-decoration: underline;
+}
+
+footer{
+	background-color: mistyrose;
+	color: #C9358E;
+	text-align: right;
+	border-radius: 10px; 
+	padding: 5px;
+	margin: 5px;
+}
