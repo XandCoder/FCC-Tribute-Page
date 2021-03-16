@@ -2,7 +2,7 @@
 *
 * Author: Sandra Suarez AKA
 *		  XandCoder
-* Date: 03.06.21
+* Date: 03.16.21
 * FCC Tribute Page
 *
 ***************************/
@@ -43,30 +43,27 @@ h5{
 	margin-top: 1px;
 }
 
-#img-div{
-	margin-bottom: 20px;
-}
-
-#image{
+.image-pic{
 	max-width: 100%;
 	display: block;
 	height: auto;
 	border-radius: 10px;
 }
 
-#img_caption{
+.imgCaption{
 	text-align: center;
 	margin-bottom: 25px;
+	margin-top: 1px;
 }
 
-#tribute-info{
+.tribute-sections{
 	background-color: mistyrose;
 	border-radius: 10px;
 	margin-bottom: 20px;
 	padding: 10px;
 }
 
-#sectionTitles{
+.sectionTitles{
 	font-weight: bold;
 }
 
